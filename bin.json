@@ -1,0 +1,60 @@
+// https://brisbane.waste-info.com.au/api/v1/properties/960298.json?start=2024-01-31T14:00:00.000Z&end=2024-02-29T14:00:00.000Z
+[
+    {
+        "property": {
+            "collection_day": 3,
+            "collection_day_2": null,
+            "zone": "zone 2",
+            "shs": null,
+            "bin_bank_id": null,
+            "clean_up_code": "7",
+            "collections": []
+        },
+        "color": "#EF3340",
+        "textColor": "#EF3340",
+        "borderColor": "#000",
+        "dow": [
+            3
+        ],
+        "daysOfWeek": [
+            3
+        ],
+        "start_date": "2024-01-31",
+        "event_type": "waste"
+    },
+    {
+        "color": "#44D62C",
+        "textColor": "#44D62C",
+        "borderColor": "#000",
+        "start": "2024-01-31",
+        "event_type": "organic"
+    },
+    {
+        "color": "#FEDB00",
+        "textColor": "#FEDB00",
+        "borderColor": "#000",
+        "start": "2024-02-07",
+        "event_type": "recycle"
+    },
+    {
+        "color": "#44D62C",
+        "textColor": "#44D62C",
+        "borderColor": "#000",
+        "start": "2024-02-14",
+        "event_type": "organic"
+    },
+    {
+        "color": "#FEDB00",
+        "textColor": "#FEDB00",
+        "borderColor": "#000",
+        "start": "2024-02-21",
+        "event_type": "recycle"
+    },
+    {
+        "color": "#44D62C",
+        "textColor": "#44D62C",
+        "borderColor": "#000",
+        "start": "2024-02-28",
+        "event_type": "organic"
+    }
+]
